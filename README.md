@@ -1,2 +1,4 @@
 # js-algo-data-structures
-Javascript Algorithms and Data Structures
+Free Code Camp - Javascript Algorithms and Data Structures
+
+Just a backup of the final projects in this course.
